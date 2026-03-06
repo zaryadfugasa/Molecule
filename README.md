@@ -1,5 +1,5 @@
 # Molecule
-Super duper AI project from 10 School of mf Pavlovsky Posad gang block stereet projected by VanillaPy$$y and 3,14drillah and Maksiv Swagich(i mr mAcdosya)
+Super duper AI project from 10 School of mf Pavlovsky Posad gang block stereet projected by VanillaPy$$y and 3,14drillah and Maksimъ Swagich(i mr mAcdosya)
 ## ОПИСАНИЕ
 Каждый человек — атом. Его навыки и личные качества — электроны, вращающиеся вокруг ядра. Взаимодействуя, атомы образуют молекулы — команды для совместной работы над проектами.
 Ценность: В школе и вузе часто есть проектные задачи, но нет инструмента, который помогает быстро и релевантно собрать команду, оценить совместимость и эффективно организовать работу. «Молекула» закрывает эту потребность, попутно собирая цифровой след компетенций для профориентации.
